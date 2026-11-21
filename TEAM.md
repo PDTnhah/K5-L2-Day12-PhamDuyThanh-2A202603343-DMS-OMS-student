@@ -5,7 +5,7 @@ Mã bộ ảnh: **G07** · Hình thức: nhóm
 | Họ tên | MSSV | Đã gán đủ 22 ảnh? | Review chéo với (peer diff) | Số dòng disagreement đã xử lý |
 |---|---|---|---|---|
 | Phạm Duy Thanh | 2A202603343 | có | Trần Trọng Thái | 31 |
-| Trần Trọng Thái | 2A202604065 | có | Phạm Duy Thanh | 32 |
+| Trần Trọng Thái | 2A202604065 | có | Phạm Duy Thanh | 79 |
 
 Ca hai bạn vẫn không thống nhất và đã hỏi coach (ghi tên ảnh + đối tượng): không có
 
